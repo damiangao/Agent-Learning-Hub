@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local tooling state (not for backup)
+.claude/
+.mcp.json
+seed.spec.ts
